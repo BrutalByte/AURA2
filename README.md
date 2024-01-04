@@ -1,5 +1,4 @@
 
-![AIlice](./AIlice.png)
 
 # Why create another agent?
 This is due to two reasons. 
